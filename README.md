@@ -1,4 +1,4 @@
-**Terms of Service**
+## **Terms of Service**
 
 - **Prohibition of Script Sharing**
 Users are prohibited from sharing, distributing, or replicating any scripts associated with Native without explicit permission. Violations may result in immediate termination of access.
